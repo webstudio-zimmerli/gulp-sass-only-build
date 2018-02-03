@@ -12,7 +12,7 @@ var paths = {
 }
 
 var sassFrameworkPaths = [
-    '/Library/Ruby/Gems/2.3.0/gems/bourbon-5.0.0/app/assets/stylesheets/',
+    '/Library/Ruby/Gems/2.3.0/gems/bourbon-5.0.0/core',
     '/Library/Ruby/Gems/2.3.0/gems/neat-2.1.0/core'
 ]
 
